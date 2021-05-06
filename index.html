@@ -13,8 +13,20 @@
                  loop="true" 
                  src="./Media/sorting.mp4">
           </video>
+          <video id="depth"
+                 autoplay autofocus playsinline
+                 preload="auto"
+                 loop="true" 
+                 src="./Media/depthFirst.mp4">
+          </video>
+          <video id="breadth"
+                 autoplay autofocus playsinline
+                 preload="auto"
+                 loop="true" 
+                 src="./Media/breadthFirst.mp4">
+          </video>
       </a-assets>
-      <a-marker preset='hiro'>
+      <a-marker type="barcode" value="0">
         <a-video position="0 0 0"
                  rotation="270 0 0"
                  src="#sorting" >
