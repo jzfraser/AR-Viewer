@@ -1,4 +1,4 @@
-### This projects is for CS 464 at Colorado State University.
+### This project is for CS 464 at Colorado State University.
 
 This site loads AR.js and is set up to handle several different markers. The media displayed on the markers show and describe the merge sort algorithm.
 The markers are all stored in the Markers directory and the media in the Media directory.
