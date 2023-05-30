@@ -5,7 +5,7 @@ The markers are all stored in the Markers directory and the media in the Media d
 
 ### Loading the site
 
-Go to jzfraser.github.io to pull up this website as hosted by GitHub.
+This was previously hosted on GitHub Pages, but I have removed it to make room for other projects.
 
 ### Known issues
 * The video files will not load and play on Google Chrome. This is due to autoplay being blocked by default. Firefox is the best browser to load this site on.
